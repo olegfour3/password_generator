@@ -1,9 +1,6 @@
 from string import ascii_lowercase, ascii_uppercase, digits, punctuation
-
 import tkinter as tk
-
 from PIL import Image
-
 import customtkinter as CTk
 import password
 
@@ -16,7 +13,7 @@ class App(CTk.CTk):
         self.title("Password generator")
         self.resizable(False, False)
 
-        self.logo = CTk.CTkImage(dark_image=Image.open("img.png"), size=(460, 150))
+        self.logo = CTk.CTkImage(dark_image=Image.open("src/img.png"), size=(460, 150))
         self.logo_label = CTk.CTkLabel(master=self, text="", image=self.logo)
         self.logo_label.grid(row=0, column=0)
 
