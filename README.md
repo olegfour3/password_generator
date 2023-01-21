@@ -1,0 +1,1 @@
+# Генератор паролей разной сложности и длины с ипользованием библиотеки [*CustomTkinter*](https://github.com/TomSchimansky/CustomTkinter)
