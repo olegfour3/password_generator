@@ -1,4 +1,4 @@
-# Генератор паролей разной сложности и длины с иcпользованием библиотеки [*CustomTkinter*](https://github.com/TomSchimansky/CustomTkinter)
+# Генератор паролей  различной длины и сложности с иcпользованием библиотеки [*CustomTkinter*](https://github.com/TomSchimansky/CustomTkinter)
 
 ![1_dark(system)](https://user-images.githubusercontent.com/45397736/213858610-608de92d-226a-40cf-8160-3e87744df3a3.png)
 
